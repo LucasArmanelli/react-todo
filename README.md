@@ -1,5 +1,5 @@
 # React Todo App
-
+## [Live Preview](https://vigorous-easley-ae2a02.netlify.app/)
 ![Presentation image 1](https://i.imgur.com/OTvntEH.png)
 ![Presentation image 2](https://i.imgur.com/ssPKbqW.png)
 
