@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React Todo App
+
+![Presentation image 1](https://i.imgur.com/OTvntEH.png)
+![Presentation image 2](https://i.imgur.com/ssPKbqW.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
