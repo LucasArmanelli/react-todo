@@ -1,5 +1,9 @@
 # React Todo App
-## [Live Preview](https://vigorous-easley-ae2a02.netlify.app/)
+
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
+
+## 🖥️ [Live Preview](https://vigorous-easley-ae2a02.netlify.app/)
+
 ![Presentation image 1](https://i.imgur.com/OTvntEH.png)
 ![Presentation image 2](https://i.imgur.com/ssPKbqW.png)
 
